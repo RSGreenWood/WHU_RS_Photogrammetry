@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/photogrammetry">
+        <file>department.png</file>
+    </qresource>
+</RCC>
