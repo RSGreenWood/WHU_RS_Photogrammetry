@@ -21,4 +21,5 @@ result_show，用于展示匹配效果对话框和保存结果
 
 3.确定你有基本的编程知识或善用大模型帮助，以便你迅速理清该项目
 
-更多详细讲解内容可参阅https://deepwiki.com/RSGreenWood/WHU_RS_Photogrammetry了解
+更多详细讲解内容可参阅https://deepwiki.com/RSGreenWood/WHU_RS_Photogrammetry
+了解
